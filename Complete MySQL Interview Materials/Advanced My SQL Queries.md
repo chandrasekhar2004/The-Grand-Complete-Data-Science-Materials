@@ -2,7 +2,7 @@
 
 Here is a list of 100+ advanced MySQL interview questions and providing detailed answers 
 
-**1. How can you find the Nth highest salary from a table?**
+**1. How can you find the Nth highest salary from a table?*
 
 **Answer**:
 
